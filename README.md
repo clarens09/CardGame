@@ -1,2 +1,2 @@
 # CardGame
-Capture the cards from the center by matching or building. Earn points by having the most cards, the most spades, and for every Ace.
+Capture cards from the center (table) by matching or building. Trailing is allowed. Earn points by having the most cards, the most spades, and for every Ace.
